@@ -1,0 +1,227 @@
+
+.first-bg{
+    max-width: 1440px;
+    height: 698px;
+    background-image: url(../Assets/Hero-bg.png);
+    margin: 0 auto;
+    margin-bottom: 66px
+    
+} 
+
+/* Nav section */
+.nav-section{
+    max-width: 1140px;
+    height: 151px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.nav-section .logo{
+    width: 99px;
+    height: 51px;
+    font-size: 34px;
+    color: #4E47FF;
+}
+.nav-section .button{
+    width: 132px;
+    height: 48px;
+    background-color: #4E47FF;
+    padding: 16px 32px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.first-bg .another-part{
+    max-width: 905px;
+    height: 237px;
+    margin: 150px 267.5px 152px;
+    text-align: center;
+}
+
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.title1{
+    width: 905px;
+    height: 152px;
+    font-weight: bold;
+    font-size: 65px;
+    font-family: raleway;
+    align-items: center;
+}
+
+.another-part button{
+    width: 174px;
+    height: 48px;
+    background-color: #4E47FF;
+    padding: 16px 32px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+}
+
+/* second-section */
+
+.second-section{
+    max-width: 1140px;
+    height: 328px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-bottom: 66px
+}
+
+.second-section div h2{
+    width: 577px;
+    height: 49px;
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    font-family: raleway;
+}
+.second-section div p{
+    width: 517px;
+    height: 60px;
+    color: rgba(43, 36, 50, 0.5);
+    font-size: 24px;
+    font-weight:400;
+    font-family: raleway;
+}
+.second-section div button{
+    width: 229px;
+    height: 48px;
+    background-color: #4E47FF;
+    padding: 16px 32px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+}
+.second-section div img{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+
+/* third-section */
+.third-section {
+  max-width: 1140px;
+  margin: 50px auto;
+  padding: 50px 20px;
+  background-color: rgba(78, 71, 255, 0.1);
+  border-radius: 24px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.dada {
+  max-width: 856px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.dada h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #252432;
+  margin-bottom: 40px;
+  font-family: Raleway;
+}
+
+.parent-div {
+  display: flex;
+  justify-content: center;
+  gap: 190px;
+  
+}
+
+.child {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 150px;
+}
+
+.child h1 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #4E47FF;
+}
+
+.child p {
+  margin-top: 5px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/* forth section */
+.forth-section{
+    max-width: 1140px;
+    height: 342px;
+    margin: 50px auto;
+
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+.forth-section h2{
+    width: auto;
+    height: 49px;
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    text-align: center;
+    font-family: Raleway;
+}
+.parent-1{
+    width: 366.67px;
+    height: 243px;
+    padding: 50px;
+    background-color: #F2EDED;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+}
+.parent-2 img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.para-div h3{
+    color: #252432;
+    font-family: Raleway;
+    margin-top: 12px;
+}
+.para-div p{
+    color: #403f50;
+    margin-bottom: 40px;
+    margin: 8px 0;
+}
+.parent-2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    
+    
+}
+.div3 h4 {
+    color: #524f81;
+    margin: 0;
+    font-size: 16px;
+}
+.div3 p {
+    margin: 0;
+    color: #484848;
+    font-size: 14px;
+}
